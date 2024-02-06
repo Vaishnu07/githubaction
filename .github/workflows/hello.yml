@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: print helloworld
-      run: hi vaishnu
+      run: echo "hi vaishnu"
 
 
